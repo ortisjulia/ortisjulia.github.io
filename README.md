@@ -1,6 +1,6 @@
 # Welcome to my page!
 
-My name is Júlia Ortís Sunyer and, even though I have been living in Sweden for a couple of years, I am from a small town near Barcelona. Currently, I am a master student at the [Bioinformatics MSc program at Lund University](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF).
+My name is Júlia Ortís Sunyer and even though I have been living in Sweden for a couple of years, I am from a small town near Barcelona. Currently, I am a master student at the [Bioinformatics MSc program at Lund University](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF).
 
 ## Background
 
