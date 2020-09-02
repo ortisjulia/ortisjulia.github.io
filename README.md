@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Júlia Ortís Sunyer
 
-You can use the [editor on GitHub](https://github.com/ortisjulia/ortisjulia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Júlia Ortís Sunyer and, even though I have been living in Sweden for a couple of years, I am from a small town near Barcelona. Currently, I am a master student at the [Bioinformatics MSc program at Lund University](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF).
 
-### Markdown
+## Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I studied Biology at the [University of Barcelona](https://www.ub.edu/web/portal/en/), where I obtained my Bachelor of Science with a major in Biology and a minor in Molecular, Cellular and Systems Biology. After graduating, I enrolled in a [master's program in Molecular Biology - Microbiology at Lund University](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NAMOB-MIBI), which I completed in 2020.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ortisjulia/ortisjulia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As you can see, my background is more on molecular biology rather than bioinformatics. However, I feel it is an important skill to have that complements well the laboratory skills I gained during my previous master´s.
